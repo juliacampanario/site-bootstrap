@@ -1,0 +1,25 @@
+.navbar {
+    background-color: #54ac77;
+}
+.quem-somos {
+    background-color: bisque;
+    color: rgb(76, 86, 97);
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+.parceiros{
+    background-color: #9acbec;
+    color: rgb(76, 86, 97);
+} 
+.serviços {
+    color: rgb(76, 86, 97);
+    font-size: 20px;
+}
+.rodape {
+    color: rgb(76, 86, 97);
+    background-color: #FCF3CF;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
